@@ -7,6 +7,7 @@ private void add() {
 }
 private void sub() {
 	System.out.println("sub");
+	System.out.println("Multiply");
 
 }
 public static void main(String[] args) {
